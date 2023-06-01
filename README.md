@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Data Structures & Algorithms(DSA)**
 
-- 💬 Ask me about **Communication skills,HTML,CSS**
+- 💬 Ask me about **Communication skills**
 
 - 📫 How to reach me **ansarishamaila5@gmail.com**
 
