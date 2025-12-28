@@ -6,9 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansari-shamaila&label=Profile%20views&color=0e75b6&style=flat" alt="ansari-shamaila" /> </p>
 
 - 🌱 I’m currently learning **Python, Data Structures & Algorithms(DSA)**
-
-- 💬 Ask me about **Communication skills**
-
 - 📫 How to reach me **ansarishamaila5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
